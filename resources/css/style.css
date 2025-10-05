@@ -1,3 +1,6 @@
+*{
+  background-color: black;
+}
 #tag {
   color: blue;
   background-color: yellow;
@@ -8,4 +11,10 @@ h1 {
 }
 h1:hover {
   color: yellow;
+}
+
+p {
+  border: 5px solid blue;
+  position: relative;
+  left: 50px;
 }
