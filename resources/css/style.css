@@ -5,9 +5,15 @@
   color: blue;
   background-color: yellow;
 }
+#tag:hover {
+  color: yellow;
+}
 
 h1 {
   color: green;
+  display: inline-block;
+  width: 150px;
+  height: 80px;
 }
 h1:hover {
   color: yellow;
@@ -18,3 +24,4 @@ p {
   position: relative;
   left: 50px;
 }
+
